@@ -1,0 +1,5 @@
+1. Used Webscraping techniques to extract information from any website as per requirement.
+2. Used Pandas data frames and dictionaries to transform data as per requirement.
+3. Loaded the processed information to CSV files and as Database tables.
+4. Queried the database tables using SQLite3 and pandas libraries.
+5. Logged the progress of the code properly.
