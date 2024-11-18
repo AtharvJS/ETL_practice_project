@@ -1,0 +1,48 @@
+06/Oct/2024—09:52"09 — ETL Process started
+06/Oct/2024—09:52"09 — Extract phase started
+06/Oct/2024—09:53"27 — ETL Process started
+06/Oct/2024—09:53"27 — Extract phase started
+06/Oct/2024—09:53"27 — Extract phase completed
+06/Oct/2024—09:53"27 — Transform phase started
+06/Oct/2024—09:53"59 — ETL Process started
+06/Oct/2024—09:53"59 — Extract phase started
+06/Oct/2024—09:53"59 — Extract phase completed
+06/Oct/2024—09:53"59 — Transform phase started
+06/Oct/2024—09:53"59 — Transform phase completed
+06/Oct/2024—09:53"59 — Load phase started
+06/Oct/2024—09:54"32 — ETL Process started
+06/Oct/2024—09:54"32 — Extract phase started
+06/Oct/2024—09:54"32 — Extract phase completed
+06/Oct/2024—09:54"32 — Transform phase started
+06/Oct/2024—09:54"32 — Transform phase completed
+06/Oct/2024—09:54"32 — Load phase started
+06/Oct/2024—09:54"32 — Data loaded to .csv file
+06/Oct/2024—09:54"32 — Data loaded to database
+06/Oct/2024—09:54"32 — ETL Process completed successfully
+06/Oct/2024—09:59:54 — ETL Process started
+06/Oct/2024—09:59:54 — Extract phase started
+06/Oct/2024—09:59:54 — Extract phase completed
+06/Oct/2024—09:59:54 — Transform phase started
+06/Oct/2024—09:59:54 — Transform phase completed
+06/Oct/2024—09:59:54 — Load phase started
+06/Oct/2024—09:59:54 — Data loaded to .csv file
+06/Oct/2024—09:59:54 — Data loaded to database
+06/Oct/2024—09:59:54 — ETL Process completed successfully
+06/Oct/2024—10:01:29 — ETL Process started
+06/Oct/2024—10:01:29 — Extract phase started
+06/Oct/2024—10:01:29 — Extract phase completed
+06/Oct/2024—10:01:29 — Transform phase started
+06/Oct/2024—10:01:29 — Transform phase completed
+06/Oct/2024—10:01:29 — Load phase started
+06/Oct/2024—10:01:29 — Data loaded to .csv file
+06/Oct/2024—10:01:29 — Data loaded to database
+06/Oct/2024—10:01:29 — ETL Process completed successfully
+06/Oct/2024—10:01:33 — ETL Process started
+06/Oct/2024—10:01:33 — Extract phase started
+06/Oct/2024—10:01:33 — Extract phase completed
+06/Oct/2024—10:01:33 — Transform phase started
+06/Oct/2024—10:01:33 — Transform phase completed
+06/Oct/2024—10:01:33 — Load phase started
+06/Oct/2024—10:01:33 — Data loaded to .csv file
+06/Oct/2024—10:01:33 — Data loaded to database
+06/Oct/2024—10:01:33 — ETL Process completed successfully
